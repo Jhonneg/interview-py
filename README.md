@@ -81,7 +81,6 @@ interviewer = input("Enter the name of the interviewer: ")
 company = input("Enter the name of the company: ")
 job_position = input("Enter the job position: ")
 job_description = input("Enter the job description: ")
-```
 
 # Demo 
 
@@ -91,7 +90,6 @@ job_description = input("Enter the job description: ")
 <img width="1757" height="232" alt="screenshot-2025-12-14_23-11-27" src="https://github.com/user-attachments/assets/d4437fb2-9a9d-494b-bbf1-4896a4477fc7" />
 **Coach Agent Feedback**
 <img width="950" height="830" alt="screenshot-2025-12-14_23-10-31" src="https://github.com/user-attachments/assets/a762f9bf-d70e-4023-91fa-3edcfca24e3d" />
-
 
 
 
